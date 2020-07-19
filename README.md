@@ -14,7 +14,7 @@ I'm Patrícia Sampaio, Student at 👨‍💻 IFCE Instituto Federal de Educaç�
 - 🌱 Change ideas and working in the group are always great
 - 👯 And many More...
 
-# Hello World!![lotus](https://user-images.githubusercontent.com/61507360/87884583-87b98e80-c9e5-11ea-9a06-6421ab61738c.png)
+# Hello World!<img alt="perfil" src="https://user-images.githubusercontent.com/61507360/87884583-87b98e80-c9e5-11ea-9a06-6421ab61738c.png">
 - 💬 Ask me about anything and everything! 
 - ⚡ Fun fact: I love meeting new people, drink coffee and eating food! 
 - 💬 Ping Me about #swift, #Objective-C, #Xcode, #Vapor, #Firebase, #Api #Networking and anything you like
@@ -22,3 +22,5 @@ I'm Patrícia Sampaio, Student at 👨‍💻 IFCE Instituto Federal de Educaç�
 
 
 ⭐️ From [@patysiq](https://github.com/patysiq)
+
+
