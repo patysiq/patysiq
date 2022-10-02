@@ -10,7 +10,8 @@ I'm Patrícia Sampaio, Student at Computer engineering from 💻 IFCE Instituto 
 
 ## 🧐 About
 - 🏄‍ I love experimenting with new ways to perform tasks
-- 🔭 I am currently an Apple Developer academy at IFCE
+- 🔭 I am Alumni Apple Developer Academy at IFCE
+-   2022 / 2020 Apple Scholarship Winner
 - 🌱 Change ideas and working in the group are always great
 - 👯 And many More...
 
